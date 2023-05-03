@@ -1,17 +1,19 @@
-# Nome do meu projeto
+# Robotron 2000
 
-Rápida descrição do objetivo de fazer esse projeto
+Venha construir seu robo para combater o ataque alienígena.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Robotron 2000**
+| :label: Tecnologias | javacript
+| :rocket: URL         | https://matheusporezeli.github.io/Robotron-2000/
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-manipulando-dom
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![image](https://user-images.githubusercontent.com/112051389/236009427-ca8d0cfd-f5b0-405d-8167-2b9c813628af.png#vitrinedev)
+
+![image](https://user-images.githubusercontent.com/112051389/236009540-e8dd9a42-b989-4593-a38b-eedc160e6f50.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto desenvolvido para aprendizado de javascript manipulando o DOM, aprender a buscar objetos com laços forEach e data-sets.
